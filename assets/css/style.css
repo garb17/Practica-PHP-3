@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Autour+One&display=swap');
+
+h1{
+    font-family: 'Autour One', cursive !important;
+    font-weight: bold;
+}
+
+h3{
+    font-family: 'Autour One', cursive !important;
+    font-weight: bold;
+}
+h4{
+    margin-bottom: 5% !important;
+}
+
+body{
+    background-image: url(../img/linea.jpg) ;
+    background-size: 100% 15% !important;
+    background-repeat:repeat-y !important;
+}
+
+.margen{
+    padding: 5% 3% 5%;   
+}
+
+.margen2{
+    padding: 1% 1%;
+    background-color: white;
+}
+
+.margen-formulario{
+    padding: 0 5% 0 !important;
+}
+
+.carta{
+    margin: 5% 0;
+    text-align: center;
+    
+}
+
+.margen-gestion{
+    padding: 5% 5% !important;
+    margin: 3% 3%;
+    background-color: rgb(242, 242, 242);
+    border-radius: 4%;
+}
+
+.margen-carpeta{
+    margin-left: 3% !important;
+}
